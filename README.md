@@ -13,6 +13,7 @@ A comprehensive Digital Logic Design (DLD) workbench containing educational circ
 - [📖 Documentation](#table-of-contents)
 - [🐛 Issues](https://github.com/H0NEYP0T-466/dld-workbench/issues)
 - [🤝 Contributing](CONTRIBUTING.md)
+- [📋 Changelog](CHANGELOG.md)
 - [⭐ Demo Projects](#features)
 
 ## 📑 Table of Contents
