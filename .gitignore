@@ -1,0 +1,44 @@
+# Proteus Design Suite
+*.workspace
+*.PWI
+*.PrjPCBStructure
+*.cache
+*.temp
+*.tmp
+*.log
+*.pdsprj.BACKUP.*
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+
+# OneNote
+*.onetoc2
+
+# Office documents temp files
+~$*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Project specific
+Project Backups/
+Backup_*
+
+# Auto-generated files from Proteus
+*.DSN.WORKSPACE
+*.DESKTOP-*.workspace
